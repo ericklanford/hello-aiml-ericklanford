@@ -1,7 +1,7 @@
 # Hello AI/ML Bootcamp!
 # Edit the variables below to introduce yourself
 
-name = "Erick Lanford"
+name = "**Erick Lanford**"
 fun_fact = "One fun fact about me"
 
 # Don't change anything below this line
